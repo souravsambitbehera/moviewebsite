@@ -3,6 +3,7 @@ import { BrowserRouter,Route,Routes } from 'react-router-dom'
 import ErrorPath from './components/error'
 import MovieDetails from './components/movie.details'
 import Home from './components/home'
+import "./App.css"
 
 const App = () => {
   return (
